@@ -24,6 +24,10 @@ Users should be able to:
 
 ### Screenshot
 
+https://github.com/Sanjog735/DataLoom-Landing-Page/assets/61593168/13df1006-cc2a-423b-97d0-c26a2089be3f
+
+
+
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/Sanjog735/DataLoom-Landing-Page)
